@@ -39,6 +39,8 @@
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
+                  <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
+                  <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
                 </ol>             
               </div>
 
