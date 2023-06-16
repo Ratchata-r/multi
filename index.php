@@ -45,6 +45,7 @@
               </div>
 
               <button type="submit" class="btn btn-success">บันทึก</button>
+              <button type="reset" class="btn btn-danger">ยกเลิก</button>
 
             </form>
           </div>
