@@ -41,11 +41,16 @@
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
                   <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
+
+                  <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
+                  <li><div class="d-flex mb-2"><input type="text" name="cChoice[]" class="form-control"></div></li>
+
                 </ol>             
               </div>
 
               <button type="submit" class="btn btn-success">บันทึก</button>
               <button type="reset" class="btn btn-danger">ยกเลิก</button>
+              <button type="button" class="btn btn-primary">อื่นๆ</button>
 
             </form>
           </div>
