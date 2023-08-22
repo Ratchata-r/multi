@@ -18,8 +18,6 @@
     <a href="#" class="navbar-brand"> เพิ่มรายการ แบบหลายรายการ</a>
     <a href="#" class="navbar-brand"> เพิ่มรายการ แบบหลายรายการ</a>
     <a href="#" class="navbar-brand"> เพิ่มรายการ แบบหลายรายการ</a>
-    <a href="#" class="navbar-brand"> เพิ่มรายการ แบบหลายรายการ</a>
-    <a href="#" class="navbar-brand"> เพิ่มรายการ แบบหลายรายการ</a>
   </nav>
   
   <div class="container">
